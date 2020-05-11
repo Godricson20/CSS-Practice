@@ -1,0 +1,302 @@
+body {
+    background-color:rgb(220, 239, 250);
+}
+
+/*styling registration form*/
+.flex-container {
+    background: linear-gradient(to bottom, blue 10% , whitesmoke 0%);
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 25% 20px 25%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+}
+
+/* styling email*/
+
+.flex-container1 {
+    background: linear-gradient(to bottom, blue 0%, whitesmoke 0px);
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 25% 20px 25%;
+    font-family: roboto light;
+    text-align: justify;
+}
+.flex-container1:hover {
+    border: 0.5px solid red;
+    margin: 20px 25% 20px 25%;
+}
+
+input {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 50%;
+    outline: none;
+    background: none;
+    border-bottom-color: lightgrey;
+    margin-bottom: 10px;
+}
+
+input:hover {
+    border-bottom-color:  red;
+    margin: 0px;
+}
+
+/* styling full name  */
+
+.flex-container2 {
+    background: linear-gradient(to bottom, blue 0%, whitesmoke 0px);
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 25% 20px 25%;
+    font-family: roboto light;
+    text-align: justify;
+}
+.flex-container2:hover {
+    border: 0.5px solid red;
+    margin: 20px 25% 20px 25%;
+}
+
+input {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 50%;
+    outline: none;
+    background: none;
+    border-bottom-color: lightgrey;
+    margin-bottom: 10px;
+}
+
+input:hover {
+    border-bottom-color:  red;
+    margin: 0px;
+}
+
+/* styling phone number  */
+
+.flex-container3 {
+    background: linear-gradient(to bottom, blue 0%, whitesmoke 0px);
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 25% 20px 25%;
+    font-family: roboto light;
+    text-align: justify;
+}
+.flex-container3:hover {
+    border: 0.5px solid red;
+    margin: 20px 25% 20px 25%;
+}
+
+input {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 50%;
+    outline: none;
+    background: none;
+    border-bottom-color: lightgrey;
+    margin-bottom: 10px;
+}
+
+input:hover {
+    border-bottom-color:  red;
+    margin: 0px;
+}
+
+/* styling Phone number of next of kin */
+
+.flex-container4 {
+    background: linear-gradient(to bottom, blue 0%, whitesmoke 0px);
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 25% 20px 25%;
+    font-family: roboto light;
+    text-align: justify;
+}
+.flex-container4:hover {
+    border: 0.5px solid red;
+    margin: 20px 25% 20px 25%;
+}
+
+input {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 50%;
+    outline: none;
+    background: none;
+    border-bottom-color: lightgrey;
+    margin-bottom: 10px;
+}
+
+input:hover {
+    border-bottom-color:  red;
+    margin: 0px;
+}
+
+/* styling location */
+.flex-container5 {
+    background: linear-gradient(to bottom, blue 0%, whitesmoke 0px);
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 25% 20px 25%;
+    font-family: roboto light;
+    text-align: justify;
+}
+.flex-container5:hover {
+    border: 0.5px solid red;
+    margin: 20px 25% 20px 25%;
+}
+
+input {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 50%;
+    outline: none;
+    background: none;
+    border-bottom-color: lightgrey;
+    margin-bottom: 10px;
+}
+
+input:hover {
+    border-bottom-color:  red;
+    margin: 0px;
+}
+
+/* styling current or previous school */
+.flex-container6 {
+    background: linear-gradient(to bottom, blue 0%, whitesmoke 0px);
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 25% 20px 25%;
+    font-family: roboto light;
+    text-align: justify;
+}
+.flex-container6:hover {
+    border: 0.5px solid red;
+    margin: 20px 25% 20px 25%;
+}
+
+
+input {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 50%;
+    outline: none;
+    background: none;
+    border-bottom-color: lightgrey;
+    margin-bottom: 10px;
+}
+
+input:hover {
+    border-bottom-color:  red;
+    margin: 0px;
+}
+
+/* styling why do you want to join Codetrain */
+
+.flex-container7 {
+    background: linear-gradient(to bottom, blue 0%, whitesmoke 0px);
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 25% 20px 25%;
+    font-family: roboto light;
+    text-align: justify;
+}
+.flex-container7:hover {
+    border: 0.5px solid red;
+    margin: 20px 25% 20px 25%;
+}
+
+input {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 50%;
+    outline: none;
+    background: none;
+    border-bottom-color: lightgrey;
+    margin-bottom: 10px;
+}
+
+input:hover {
+    border-bottom-color:  red;
+    margin: 0px;
+}
+
+/* styling how did you hear about code train Codetrain */
+
+.flex-container8 {
+    background: linear-gradient(to bottom, blue 0%, whitesmoke 0px);
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 25% 20px 25%;
+    font-family: roboto light;
+    text-align: justify;
+}
+.flex-container8:hover {
+    border: 0.5px solid red;
+    margin: 20px 25% 20px 25%;
+}
+
+input {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 50%;
+    outline: none;
+    background: none;
+    border-bottom-color: lightgrey;
+    margin-bottom: 10px;
+}
+
+input:hover {
+    border-bottom-color:  red;
+    margin: 0px;
+}
+
+/* styling paragraph */
+
+.flex-container9 p {
+    /* background: linear-gradient(to bottom, blue 0%, whitesmoke 0px);*/
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin: 20px 25% 20px 25%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding-top: 10px;
+    color: grey;
+}
+
+/* styling submit button */
+.flex-container10 input {
+    /* background: linear-gradient(to bottom, blue 0%, whitesmoke 0px);*/
+    padding: 0px 20px 10px 20px;
+    border-radius: 10px;
+    margin: 0px 25% 20px 25%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+    width: 7%;
+}
+
+.flex-container10 input:hover {
+    color: black;
+    background-color: lightblue;
+}
+
+
+
+
+
+
+
+
+
